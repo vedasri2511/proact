@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/vedasri2511/Leetcode/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/vedasri2511/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/vedasri2511/Leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/vedasri2511/Leetcode/tree/master/0706-design-hashmap) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/vedasri2511/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/vedasri2511/Leetcode/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/vedasri2511/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vedasri2511/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0697-degree-of-an-array](https://github.com/vedasri2511/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/vedasri2511/Leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/vedasri2511/Leetcode/tree/master/0706-design-hashmap) |
 | [1980-find-unique-binary-string](https://github.com/vedasri2511/Leetcode/tree/master/1980-find-unique-binary-string) |
 ## Backtracking
 |  |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/vedasri2511/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/vedasri2511/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0705-design-hashset](https://github.com/vedasri2511/Leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/vedasri2511/Leetcode/tree/master/0706-design-hashmap) |
 ## Queue
 |  |
 | ------- |
@@ -387,8 +390,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/vedasri2511/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0705-design-hashset](https://github.com/vedasri2511/Leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/vedasri2511/Leetcode/tree/master/0706-design-hashmap) |
 ## Linked List
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/vedasri2511/Leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/vedasri2511/Leetcode/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
